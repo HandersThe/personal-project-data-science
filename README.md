@@ -4,7 +4,7 @@ This repository contains a collection of personal projects.
 
 ## About
 
-This collection serves as a portfolio of my work and a demonstration of my skills and interests in data science related field that I deemed not big enough for a seperate repository.
+This collection serves as a portfolio of my work and a demonstration of my skills and interests in data science related field using Python and its libraries such as NumPy, pandas, scikit-learn, etc. that I deemed not big enough for a seperate repository.
 
 ## Getting Started
 
